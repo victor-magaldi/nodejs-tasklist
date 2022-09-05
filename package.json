@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-tasklist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/victor-magaldi/nodejs-tasklist.git",
+  "author": "victor de souza magaldi <victmagaldi@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "sucrase": "^3.25.0"
+  }
+}
